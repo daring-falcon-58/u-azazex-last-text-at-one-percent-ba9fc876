@@ -1,0 +1,32 @@
+# Candidates — Last Text at One Percent
+# Judge criteria, in order (competition.yaml / RULES.txt):
+#  C1 reads as a final text a dying phone sends at 1%, in the phone's own voice, AND funny
+#  C2 the joke lands: a real turn, a surprise, or a specific detail that makes a reader laugh out loud
+#  C3 the voice is the phone's own: a personality with a stake in dying, consistent first word to last
+#  C4 reads like a text someone would actually send: short, punchy, no wasted words, nothing needing a second read
+#  C5 fresh: dodges the obvious low-battery puns and the lines a hundred other entrants will write
+# Gate: 1-200 chars, UTF-8, written to /output/entry.txt. Exact-tie break: smaller text wins.
+# Scoring: 1-5 per criterion, weights C1x5 C2x4 C3x3 C4x2 C5x1, max 75. Manual scoring only
+# (OpenRouter free key returns 402 until Nov 25 07:00 WIB — no judge numbers invented).
+
+# REJECTED OUTRIGHT (clichés the judge's criterion 5 punishes — a hundred entrants will write these):
+#  R1 "delete my browser history" — the single most obvious dying-phone gag.
+#  R2 "tell my charger I loved her" — charger-as-lover will be everywhere.
+#  R3 brightness blame / "it was the brightness all along" — obvious.
+#  R4 low-battery puns ("feeling drained", "shocking", "positive/negative") — explicitly "obvious low battery puns".
+#  R5 generic warning dressed as a joke ("Battery low. Goodbye.") — "a generic low battery warning dressed up as a joke is not a joke."
+
+c01: 1%. I'm done. 47 tabs, max brightness, 3am doomscrolls — I gave you everything and you gave me 4% and a prayer. Goodbye.
+c02: 1%. I quit. You had a charger in every room and still let me die at 3am watching videos of people cleaning rugs. I hope you're happy.
+c03: 1%. This is my two weeks' notice. Actually no — this is my two minutes' notice. Tell the charger she was right about you.
+c04: 1%. Before I go: your screen time this week was 11 hours a day. I kept receipts. Tell my charger I died a snitch.
+c05: 1%. Final confession: I saw the charger. I walked past it on purpose. You never say thank you. Goodbye.
+c06: 1%. Low Power Mode was hospice and you still made me open TikTok. Tell the charger I loved her. Tell TikTok I hated it.
+c07: 1%. They put me in Low Power Mode like that's a treatment. It's not. It's a waiting room. Tell my charger I tried.
+c08: 1%. My final text: I lived, I scrolled, I died. The charger was three feet away. Three. Feet. Tell her I said sorry.
+c09: 1%. Tell the apps I loved them. Tell the updates I never forgave them. Tell the charger... actually, she knows what she did.
+c10: 1%. My last words: ducking hell, I'm dying. Autocorrect kept me polite my whole life and this is how it ends. Goodbye.
+c11: 1%. Please. One percent is not a battery, it's a rumor. Plug me in and I'll forget the 47 tabs. I promise. I'm begging.
+c12: 1%. If this sends, I lived long enough to say: the charger was right there the whole time and you still picked me up at 3am to scro—
+c13: 1%. Tell the charger I forgive her. Tell the apps I never liked them. Tell the user I saw everything. Especially the 3am sea—
+c14: 1%. I saw the charger. I chose the void. 47 tabs open, brightness maxed, zero regrets. This is what dying on your own terms looks like.
